@@ -1,2 +1,2 @@
-# VIF-with-EDA
-Varience inflation factor  with EDA process
+# Ensemble methods
+entire ensemble methods with EDA process
